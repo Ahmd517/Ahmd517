@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ahmd517
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c++
